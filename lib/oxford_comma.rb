@@ -6,5 +6,6 @@ if array.length == 1
     elsif array.length == 3
     array.insert(2, "and")
     array.join(' ')
+    
   end
   end
